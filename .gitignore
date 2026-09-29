@@ -4,9 +4,9 @@ images/
 artifacts/*
 !artifacts/splits/
 artifacts/splits/*
-!artifacts/splits/*.csv
 __pycache__/
 .ipynb_checkpoints/
 *.csv
 *.zip
 .env
+!artifacts/splits/*.csv
