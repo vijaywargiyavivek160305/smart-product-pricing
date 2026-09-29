@@ -1,0 +1,2 @@
+experiment_id,stage,model,features,target,smape,notes
+EXP001,Stage 1,Constant Baseline,None,price,72.69,Best constant-prediction baseline
