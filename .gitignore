@@ -1,6 +1,7 @@
 venv/
-data/
-models/
+dataset/
+images/
+artifacts/
 __pycache__/
 .ipynb_checkpoints/
 *.csv
